@@ -1,3 +1,5 @@
+![logo](https://github.com/hyperdargo/hyperdargo/blob/main/cover.png)
+
 <h1 align="center">Hi 👋, I'm Dargo Tamber</h1>
 <h3 align="center">Just A Coding Student Trying To Be Cool!</h3>
 <img align="right" alt="coding" widht="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
