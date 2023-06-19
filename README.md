@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Discord Bots](https://github.com/hyperdargo/dt-discord-bot)
 
-- 🌱 I’m currently learning **Node.JS And Other Javascrips**
+- 🌱 I’m currently learning **Hacking**
 
 - 👨‍💻 All of my projects are available at [https://www.github.com/hyperdargo](https://www.github.com/hyperdargo)
 
