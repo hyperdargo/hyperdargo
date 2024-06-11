@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hyperdargo@gmail.com**
   
-- ❄ Check out my website **[hyperdargo@gmail.com](https://ankitgupta.com.np/)**
+- ❄ Check out my website **[ankitgupta.com](https://ankitgupta.com.np/)**
 
 - 📄 Know about my experiences [Learning Things Slowly.]
 - ⚡ Fun fact **My height is longer then yours**
