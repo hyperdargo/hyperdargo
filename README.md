@@ -46,7 +46,7 @@
 ### 💻 Languages and Tools:
 - **Networking** <img src="https://img.icons8.com/ios/50/ffffff/network.png" width="20" height="20" />: Mastering **network protocols**, and using **Cisco Packet Tracer** for network simulations and troubleshooting.
 - **Linux** <img src="https://img.icons8.com/ios/50/ffffff/linux.png" width="20" height="20" />: Extensive experience with **Linux systems** for server management, shell scripting, and system administration.
-- **C Programming** <img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus.png" width="20" height="20" />: Proficient in **low-level programming** for system-level applications using **C++**.
+- **C Programming** <img src="https://img.icons8.com/ios/50/ffffff/c-plus-plus.png" width="20" height="20" />: Proficient in **low-level programming** for system-level applications using **C**.
 - **Python** <img src="https://img.icons8.com/ios/50/ffffff/python.png" width="20" height="20" />: Leveraging **Python** for automation, security testing, web development, and various other scripting tasks.
 - **Web Development** <img src="https://img.icons8.com/ios/50/ffffff/html-5.png" width="20" height="20" />: Expertise in **HTML**, **CSS**, and **JavaScript** for building dynamic web applications.
 - **Scripting** <img src="https://img.icons8.com/ios/50/ffffff/javascript.png" width="20" height="20" />: Writing **automation scripts** to manage servers, data, and workflows.
