@@ -22,7 +22,7 @@
 - **Server Enthusiast**: From **Pterodactyl setups** to managing **cloud storage**, I enjoy diving deep into configuring servers and experimenting with different game-hosting environments.
 - **Eternal Learner**: I believe in constant growth and exploration! Always discovering new technologies to improve my projects and push the limits of what's possible.
 - **Game Creating**: I create games to introduce exciting gameplay features. Sharing these games is my way of enhancing the gaming experience for everyone.
-- 
+
 ---
 
 ### 🧑‍💻 My Current Projects:
