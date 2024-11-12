@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperdargo&label=Profile%20views&color=0e75b6&style=flat" alt="hyperdargo" /> </p>
 
-- 🔭 I’m currently working on [Discord Bots](https://github.com/hyperdargo/dt-discord-bot)
+- 🔭 I’m currently working on [Discord Bots](https://github.com/hyperdargo/dt-discord-bot), [Minecraft Mods](https://modrinth.com/organization/dtempire), [Website Develpment](https://github.com/hyperdargo?tab=repositories) And [Hacking Tools](https://github.com/hyperdargo/Geolocation)
+
 
 - 🌱 I’m currently learning **Hacking**
 
