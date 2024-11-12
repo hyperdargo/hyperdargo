@@ -15,7 +15,6 @@
 - 👨‍💻 Check out all my projects on my [GitHub Repositories](https://github.com/hyperdargo?tab=repositories)
 - 📫 **Reach out to me**: **ankitstudentid@gmail.com**
 - 🌐 Explore my personal website: [ankitgupta](https://ankitgupta.com.np/)
-- 📄 Dive into my experiences: [Learning Things Slowly...](https://ankitgupta.com.np/)
 
 ---
 
