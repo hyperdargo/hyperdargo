@@ -4,7 +4,7 @@
 <h3 align="center">An Ethical Hacker | Tech Enthusiast | Creator</h3>
 
 <p align="center">
-  <img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
   <img src="https://komarev.com/ghpvc/?username=hyperdargo&label=Profile%20views&color=0e75b6&style=flat" alt="hyperdargo" />
 </p>
 
