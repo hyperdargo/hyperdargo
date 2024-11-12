@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyperdargo&label=Profile%20views&color=0e75b6&style=flat" alt="hyperdargo" /> </p>
 
-- 🔭 I’m currently working on [Discord Bots](https://github.com/hyperdargo/dt-discord-bot)
+- 🔭 I’m currently working on [Hacking Tools](https://github.com/hyperdargo/Geolocation), [WebDevelopment](https://github.com/hyperdargo/ankitgupta-portfolio-v3), [Discord Bots](https://github.com/hyperdargo/dt-discord-bot) And [Minecraft Mods](https://modrinth.com/organization/dtempire)
 
-- 🌱 I’m currently learning **Hacking**
+- 🌱 I’m currently learning **Ethical Hacking**
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/hyperdargo?tab=repositories)
 
 - 📫 How to reach me **ankitstudentid@gmail.com**
   
-- ❄ Check out my website **[ankitgupta.com](https://ankitgupta.com.np/)**
+- ❄ Check out my website **[ankitgupta](https://ankitgupta.com.np/)**
 
 - 📄 Know about my experiences [Learning Things Slowly.]
 - ⚡ Fun fact **My height is longer then yours**
