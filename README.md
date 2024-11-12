@@ -1,6 +1,6 @@
 ![logo](https://github.com/hyperdargo/hyperdargo/blob/main/cover.png)
 
-<h1 align="center">Hi 👋, I'm Dargo Tamber AKA Ankit Gupta</h1>
+<h1 align="center">Hi 👋, I'm Ankit Gupta Aka Dargo Tamber</h1>
 <h3 align="center">I Am Ethical Hacker Student</h3>
 <img align="right" alt="coding" widht="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
