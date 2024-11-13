@@ -14,7 +14,7 @@
 - 🌱 **Currently learning**: **Ethical Hacking**
 - 👨‍💻 Check out all my projects on my [GitHub Repositories](https://github.com/hyperdargo?tab=repositories)
 - 📫 **Reach out to me**: **ankitstudentid@gmail.com**
-- 🌐 Explore my personal website: [ankitgupta](https://ankitgupta.com.np/)
+- 🌐 Explore my personal website: [ankitgupta.com.np](https://ankitgupta.com.np/)
 
 ---
 
