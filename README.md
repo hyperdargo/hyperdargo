@@ -57,8 +57,7 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hyperdargo&hide_border=true&background=0d1117&stroke=ffffff&fire=ff0000&currStreakNum=ffffff&sideNums=ffffff" alt="Streak Stats" height="160" />
+<p align="center"
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hyperdargo&show_icons=true&locale=en&layout=compact&hide_title=true&bg_color=0d1117" alt="Top Languages" height="160" />
 </p>
 
