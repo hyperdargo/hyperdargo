@@ -7,7 +7,7 @@
   <img align="center" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"><br><br>
   <img src="https://komarev.com/ghpvc/?username=hyperdargo&label=Profile%20views&color=0e75b6&style=flat" alt="hyperdargo" />
 </p>
-
+![GitHub](https://img.shields.io/badge/license_-DargoTamber-red)
 ---
 
 - 🔭 **Currently working on**: [Hacking Tools](https://github.com/hyperdargo/Geolocation), [Web Development](https://github.com/hyperdargo/ankitgupta-portfolio-v3), [Discord Bots](https://github.com/hyperdargo/dt-discord-bot), [Minecraft Mods](https://modrinth.com/organization/dtempire)
