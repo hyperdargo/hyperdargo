@@ -92,8 +92,8 @@ I'm a passionate security enthusiast and developer exploring the intersection of
   <a href="https://github.com/hyperdargo/DTEmpire-v2">
     <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
   </a>
-  <a href="https://discord.gg/zGxRRE3MS9">
-    <img src="https://img.shields.io/badge/💬_Demo-Join_Discord-5865F2?style=for-the-badge&logo=discord" alt="Demo">
+  <a href="https://dsc.gg/dtempirev2">
+    <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
   </a>
 </div>
 
@@ -120,7 +120,7 @@ I'm a passionate security enthusiast and developer exploring the intersection of
   <a href="https://github.com/hyperdargo/Discord-Music-Bot">
     <img src="https://img.shields.io/badge/🎵_Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://discord.com/oauth2/authorize?client_id=YOUR_BOT_ID&permissions=8&scope=bot%20applications.commands">
+  <a href="https://dsc.gg/dtempire-music">
     <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
   </a>
 </div>
