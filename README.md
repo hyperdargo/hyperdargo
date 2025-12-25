@@ -229,8 +229,8 @@ I'm a passionate security enthusiast and developer exploring the intersection of
 ### 📊 Project Statistics
 | Project | Category | Status | Live Demo | Stars |
 |---------|----------|---------|------------|--------|
-| **DTEmpire v2** | Discord Bot | 🟢 Active | Discord Server | ⭐ 1 |
-| **Music Bot** | Discord Bot | 🟢 Active | Invite Link | ⭐ 0 |
+| **DTEmpire v2** | Discord Bot | 🟢 Active | https://dsc.gg/dtempirev2 | ⭐ 1 |
+| **Music Bot** | Discord Bot | 🟢 Active | https://dsc.gg/dtempire-music | ⭐ 0 |
 | **Portfolio v5** | Web Dev | 🟢 Live | https://ankitgupta.com.np | ⭐ 0 |
 | **AI Terminal** | AI Tools | 🟢 Live | https://ai.ankitgupta.com.np | ⭐ 0 |
 | **Image Generator** | AI Tools | 🟢 Live | https://imggen.ankitgupta.com.np | ⭐ 0 |
