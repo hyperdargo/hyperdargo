@@ -24,7 +24,7 @@ I'm a passionate security enthusiast and developer exploring the intersection of
 
 - 🔭 **Currently working on:** Ethical hacking tools, Discord bots, and Minecraft mods
 - 🌱 **Learning:** Advanced penetration testing, reverse engineering, and web3 security
-- 📫 **Reach me:** [ankitstudentid@gmail.com](mailto:ankitstudentid@gmail.com)
+- 📫 **Reach me:** [email@ankitgupta.com.np](mailto:email@ankitgupta.com.np)
 - 🌐 **Portfolio:** [ankitgupta.com.np](https://ankitgupta.com.np)
 
 ---
