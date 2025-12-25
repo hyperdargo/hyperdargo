@@ -49,7 +49,7 @@ I'm a passionate security enthusiast and developer exploring the intersection of
   
   **Contributions:** 500+ • **Streak:** 30+ days
   
-  [![View my GitHub activity](https://img.shields.io/badge/View-Full_Activity-brightgreen?style=for-the-badge)](https://github.com/hyperdargo)
+  [![View my GitHub activity](https://img.shields.io/badge/View-Full_Activity-brightgreen?style=for-the-badge)](https://github.com/hyperdargo?tab=repositories)
 
 </div>
 
