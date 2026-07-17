@@ -54,17 +54,7 @@ I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on bac
 - **OS Environments:** `Kali Linux` `Ubuntu` `Windows Server` `Debian`
 - **Infrastructure Layers:** `Docker` `Nginx` `Pterodactyl` `cPanel` `Cloudflare`
 
----
 
-## 🧠 AI / ML Expertise Section
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Large Language Models** | Intermediate | Integration of custom prompt templates, history overrides, and fallback networks with 9router API. |
-| **Generative Image Models** | Intermediate | Programmatic automation of Flux, Stable Diffusion, and Pollinations generative image endpoints. |
-| **Cognitive Agents** | Advanced | Development of interactive CLI chatbot pipelines with per-user localized SQLite memory indexes. |
-
----
 
 ## 🔥 Featured Projects
 
@@ -74,104 +64,123 @@ I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on bac
   <img src="https://img.shields.io/badge/Web_Development-2-green?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev" />
 </div>
 
-<div class="project-grid" align="center">
-
-  <!-- Project 1: DTEmpire v2 -->
-  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #5865F2; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 0; color: #FFFFFF;">🤖 DTEmpire v2</h3>
-    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">All-in-One Discord Bot &amp; Automation Engine</p>
-    <div style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/Version-2.6.9-blue" alt="Version">
-      <img src="https://img.shields.io/badge/Commands-54+-green" alt="Commands">
-      <img src="https://img.shields.io/badge/Categories-12-yellow" alt="Categories">
-      <img src="https://img.shields.io/badge/Node.js-18.x-brightgreen" alt="Node.js">
-    </div>
-    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">AI Chat/Image/Video • Advanced Moderation • Economy System • Music Player • Ticket System • Auto-Rooms • YouTube Alerts</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/hyperdargo/DTEmpire-v2" target="_blank">
-        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
-      </a>
-      <a href="https://dsc.gg/dtempirev2" target="_blank">
-        <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
-      </a>
-    </div>
-  </div>
-
-  <!-- Project 2: DTEmpire Music Bot -->
-  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #FF0000; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 0; color: #FFFFFF;">🎵 DTEmpire Music Bot</h3>
-    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">High-Quality Discord Music Player</p>
-    <div style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/Platform-YouTube-red" alt="YouTube">
-      <img src="https://img.shields.io/badge/Platform-Spotify-green" alt="Spotify">
-      <img src="https://img.shields.io/badge/Audio-Lossless-blue" alt="Audio">
-    </div>
-    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">YouTube &amp; Spotify Support • Queue Management • Volume Control • Shuffle/Loop Modes • 24/7 Voice Channel Uptime</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/hyperdargo/Discord-Music-Bot" target="_blank">
-        <img src="https://img.shields.io/badge/🎵_Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
-      <a href="https://dsc.gg/dtempire-music" target="_blank">
-        <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
-      </a>
-    </div>
-  </div>
-
-  <!-- Project 3: Asura Proctoring Anti-Cheat -->
-  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #BD00FF; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 0; color: #FFFFFF;">🛡️ Asura Proctoring Anti-Cheat</h3>
-    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">AI-Assisted Online Exam Integrity Platform</p>
-    <div style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/Stack-Flask_/_Socket.IO-purple" alt="Stack">
-      <img src="https://img.shields.io/badge/Security-OS_Audit-red" alt="Security">
-      <img src="https://img.shields.io/badge/Agent-Win32_/_psutil-blue" alt="Agent">
-    </div>
-    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">DevTools Blocking • Viewport Hooking • Real-time WebSocket violation streaming • Win32 background process tracking</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/hyperdargo/Asura-Anti-Cheat" target="_blank">
-        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
-      </a>
-    </div>
-  </div>
-
-  <!-- Project 4: Portfolio v5 -->
-  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #00FF88; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 0; color: #FFFFFF;">🌐 Portfolio v5</h3>
-    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">Hacker-Themed Interactive Cybersecurity Portfolio</p>
-    <div style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/Theme-Hacker_Matrix-00ff88" alt="Theme">
-      <img src="https://img.shields.io/badge/CLI_Terminal-Yes-success" alt="Terminal">
-      <img src="https://img.shields.io/badge/Tech-Vanilla_JS_/_Canvas-blue" alt="Tech">
-    </div>
-    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">Interactive CLI shell parsing 10+ commands • Matrix-style canvas backgrounds • Custom CTF cyber challenge interface</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/hyperdargo/ankitgupta-portfolio-v5" target="_blank">
-        <img src="https://img.shields.io/badge/💻_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
-      <a href="https://ankitgupta.com.np" target="_blank">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-00ff88?style=for-the-badge" alt="Live Demo">
-      </a>
-    </div>
-  </div>
-
-  <!-- Project 5: Alluva Private Player -->
-  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #00F0FF; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
-    <h3 style="margin-top: 0; color: #FFFFFF;">🎬 Alluva Private Media Player</h3>
-    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">Unified Multi-source torrent Streaming Client</p>
-    <div style="margin: 10px 0;">
-      <img src="https://img.shields.io/badge/Backend-Node.js_/_Express-blue" alt="Backend">
-      <img src="https://img.shields.io/badge/Scraping-Torznab_/_Prowlarr-orange" alt="Scraping">
-      <img src="https://img.shields.io/badge/Metadata-AniList_/_TMDB-purple" alt="Metadata">
-    </div>
-    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">Prowlarr search indexer scraping • Glassmorphic navigation UI • VLC native stream linking • Automated catalog management</p>
-    <div style="margin-top: 15px;">
-      <a href="https://github.com/hyperdargo/Alluva" target="_blank">
-        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
-      </a>
-    </div>
-  </div>
-
-</div>
+<table style="width: 100%; border-collapse: collapse; border: none; background: transparent;">
+  <tr style="border: none;">
+    <!-- Project 1: DTEmpire v2 -->
+    <td width="50%" valign="top" style="padding: 10px; border: none;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #5865F2; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🤖 DTEmpire v2</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">Discord Bot &amp; Automation Engine</p>
+          <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Version-2.6.9-blue" alt="Version">
+            <img src="https://img.shields.io/badge/Commands-54+-green" alt="Commands">
+            <img src="https://img.shields.io/badge/Node-18.x-brightgreen" alt="Node.js">
+          </div>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">AI Chat/Image/Video • Advanced Moderation • Economy • Music Player • Ticket System • Auto-Rooms • YouTube Alerts</p>
+        </div>
+        <div style="margin-top: auto;">
+          <a href="https://github.com/hyperdargo/DTEmpire-v2" target="_blank">
+            <img src="https://img.shields.io/badge/📂_Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+          </a>
+          <a href="https://dsc.gg/dtempirev2" target="_blank">
+            <img src="https://img.shields.io/badge/🤖_Invite-5865F2?style=for-the-badge&logo=discord" alt="Invite">
+          </a>
+        </div>
+      </div>
+    </td>
+    <!-- Project 2: DTEmpire Music Bot -->
+    <td width="50%" valign="top" style="padding: 10px; border: none;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #FF0000; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🎵 DTEmpire Music</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">High-Quality Music Player</p>
+          <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Platform-YouTube-red" alt="YouTube">
+            <img src="https://img.shields.io/badge/Platform-Spotify-green" alt="Spotify">
+            <img src="https://img.shields.io/badge/Audio-Lossless-blue" alt="Audio">
+          </div>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">YouTube &amp; Spotify Support • Queue Management • Volume Control • Shuffle/Loop Modes • 24/7 Voice Channel Uptime</p>
+        </div>
+        <div style="margin-top: auto;">
+          <a href="https://github.com/hyperdargo/Discord-Music-Bot" target="_blank">
+            <img src="https://img.shields.io/badge/🎵_Source-black?style=for-the-badge&logo=github" alt="GitHub">
+          </a>
+          <a href="https://dsc.gg/dtempire-music" target="_blank">
+            <img src="https://img.shields.io/badge/🤖_Invite-5865F2?style=for-the-badge&logo=discord" alt="Invite">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Project 3: Asura Proctoring Anti-Cheat -->
+    <td width="50%" valign="top" style="padding: 10px; border: none;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #BD00FF; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🛡️ Asura Anti-Cheat</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">AI Exam Integrity Platform</p>
+          <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Stack-Flask_/_Socket.IO-purple" alt="Stack">
+            <img src="https://img.shields.io/badge/Security-OS_Audit-red" alt="Security">
+            <img src="https://img.shields.io/badge/Agent-Win32-blue" alt="Agent">
+          </div>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">DevTools Blocking • Viewport Hooking • Real-time WebSocket violation streaming • Win32 background process tracking</p>
+        </div>
+        <div style="margin-top: auto;">
+          <a href="https://github.com/hyperdargo/Asura-Anti-Cheat" target="_blank">
+            <img src="https://img.shields.io/badge/📂_Repo-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+          </a>
+        </div>
+      </div>
+    </td>
+    <!-- Project 4: Portfolio v5 -->
+    <td width="50%" valign="top" style="padding: 10px; border: none;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #00FF88; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🌐 Portfolio v5</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">Interactive Cyber Portfolio</p>
+          <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Theme-Hacker_Matrix-00ff88" alt="Theme">
+            <img src="https://img.shields.io/badge/CLI-Terminal-success" alt="Terminal">
+            <img src="https://img.shields.io/badge/Tech-JS_/_Canvas-blue" alt="Tech">
+          </div>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">Interactive CLI shell parsing 10+ commands • Matrix-style canvas backgrounds • Custom CTF cyber challenge interface</p>
+        </div>
+        <div style="margin-top: auto;">
+          <a href="https://github.com/hyperdargo/ankitgupta-portfolio-v5" target="_blank">
+            <img src="https://img.shields.io/badge/💻_Code-black?style=for-the-badge&logo=github" alt="GitHub">
+          </a>
+          <a href="https://ankitgupta.com.np" target="_blank">
+            <img src="https://img.shields.io/badge/🌐_Demo-00ff88?style=for-the-badge" alt="Live Demo">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <!-- Project 5: Alluva Private Player -->
+    <td colspan="2" valign="top" style="padding: 10px; border: none;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #00F0FF; min-height: 220px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+        <div>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🎬 Alluva Private Media Player</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">Unified Multi-source torrent Streaming Client</p>
+          <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
+            <img src="https://img.shields.io/badge/Backend-Node.js_/_Express-blue" alt="Backend">
+            <img src="https://img.shields.io/badge/Scraping-Torznab_/_Prowlarr-orange" alt="Scraping">
+            <img src="https://img.shields.io/badge/Metadata-AniList_/_TMDB-purple" alt="Metadata">
+          </div>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">Prowlarr search indexer scraping • Glassmorphic navigation UI • VLC native stream linking • Automated catalog management</p>
+        </div>
+        <div style="margin-top: auto;">
+          <a href="https://github.com/hyperdargo/Alluva" target="_blank">
+            <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
