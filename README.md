@@ -27,7 +27,7 @@
 
 ## 🚀 About Section
 
-I am a **Senior Full-Stack Developer** and **Cybersecurity Researcher** focusing on backend integrity, proctoring architectures, and generative AI agents. My practice targets building secure products at enterprise scale while auditing software configurations for security vulnerabilities. I balance web application architecture, system automation scripting, and microservices with a defense-in-depth engineering mindset.
+I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on backend integrity, proctoring architectures, and generative AI agents. My practice targets building secure products while auditing software configurations for security vulnerabilities. I balance web application architecture, system automation scripting, and microservices with a defense-in-depth engineering mindset.
 
 ### 🎯 Open To
 - **Advanced Pentesting Audits** — System vulnerability reviews and report writing.
