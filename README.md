@@ -241,15 +241,15 @@ I am a **Senior Full-Stack Developer** and **Cybersecurity Researcher** focusing
 
 ---
 
-## 🏆 GitHub Trophies Section
+## 🏆 GitHub Achievements Section
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=hyperdargo&theme=darkhub&no-bg=true&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=hyperdargo&theme=flat&no-bg=true&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=hyperdargo&theme=flat&no-bg=true" alt="Trophies" />
-  </picture>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/quickdraw-default.png" alt="Quickdraw" width="85" height="85" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" alt="Pull Shark" width="85" height="85" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" alt="Pair Extraordinaire" width="85" height="85" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/galaxy-brain-default.png" alt="Galaxy Brain" width="85" height="85" />
+  <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" alt="YOLO" width="85" height="85" />
+</div>
 
 ---
 
