@@ -199,8 +199,13 @@ I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on bac
 ## 📜 Certifications Section
 
 <p align="center">
+  <a href="https://www.credly.com/users/ankit-gupta.43ab5b64" target="_blank">
+    <img src="https://img.shields.io/badge/API_Security-Fundamentals_--_Credly-red?style=for-the-badge&logo=credly&logoColor=white" alt="API Security Fundamentals" />
+  </a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=7A4BF62D25F77B6E603B9FEE8537A60BE149787309E50EB2AAA5254FBDAD472F" target="_blank">
+    <img src="https://img.shields.io/badge/Oracle-Cloud_AI_Foundation-orange?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Certified" />
+  </a>
   <img src="https://img.shields.io/badge/Cisco-Cybersecurity_Academy-blue?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Certification" />
-  <img src="https://img.shields.io/badge/Academic-BSc_Computer_Science-7c3aed?style=for-the-badge&logo=academia&logoColor=white" alt="BSc CS" />
 </p>
 
 ---
