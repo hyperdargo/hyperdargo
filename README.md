@@ -2,8 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7c3aed&height=140&section=header&text=Ankit%20Gupta&fontSize=35&fontColor=ffffff&fontAlignY=40" alt="Ankit Gupta Header" width="100%" />
   <a href="https://github.com/hyperdargo/hyperdargo" style="display: block; margin-top: -15px;">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyperdargo/hyperdargo/main/assets/dark.svg?v=5">
-      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/hyperdargo/hyperdargo/main/assets/light.svg?v=5" width="100%">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyperdargo/hyperdargo/main/assets/dark.svg?v=6">
+      <img alt="GitHub Profile README" src="https://raw.githubusercontent.com/hyperdargo/hyperdargo/main/assets/light.svg?v=6" width="100%">
     </picture>
   </a>
 </div>
