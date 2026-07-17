@@ -43,7 +43,7 @@ I am a **Senior Full-Stack Developer** and **Cybersecurity Researcher** focusing
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,go,c,react,nextjs,tailwind,docker,postgres,nginx,cloudflare,git,figma,linux,bash" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,go,c,react,nextjs,tailwind,docker,postgres,nginx,cloudflare,git,figma,linux,bash,npm" alt="Tech Stack Icons" />
   </a>
 </p>
 
