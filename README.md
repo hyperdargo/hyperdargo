@@ -9,8 +9,8 @@
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-BSc%20CS%20%26%20Cybersecurity-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="Academic" />
-  <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-bd00ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <a href="https://softwarica.edu.np/"><img src="https://img.shields.io/badge/Degree-BSc%20CS%20%26%20Cybersecurity-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="Academic" /></a>
+  <img src="https://img.shields.io/badge/Location-Damak%208%2C%20Jhapa-bd00ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://ankitgupta.com.np"><img src="https://img.shields.io/badge/Portfolio-ankitgupta.com.np-00ff66?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/dargotamber/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:email@ankitgupta.com.np"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>

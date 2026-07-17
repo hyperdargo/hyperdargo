@@ -213,7 +213,7 @@
       <!-- Location -->
       <g opacity="0">
         <animate attributeName="opacity" to="1" dur="0.4s" begin="2.0s" fill="freeze" />
-        <text x="530" y="235">📍 Location: Kathmandu, Nepal</text>
+        <text x="530" y="235">📍 Location: Damak 8, Jhapa</text>
       </g>
       <!-- Education -->
       <g opacity="0">
