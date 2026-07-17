@@ -134,25 +134,25 @@ I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on bac
         </div>
       </div>
     </td>
-    <!-- Project 4: Portfolio v5 -->
+    <!-- Project 4: DTEmpire AI Chat Bot -->
     <td width="50%" valign="top" style="padding: 10px; border: none;">
-      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #00FF88; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
+      <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; border-left: 4px solid #A78BFA; min-height: 250px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); text-align: left; display: flex; flex-direction: column; justify-content: space-between;">
         <div>
-          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🌐 Portfolio v5</h3>
-          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">Interactive Cyber Portfolio</p>
+          <h3 style="margin-top: 0; color: #FFFFFF; font-size: 18px;">🧠 DTEmpire AI Chat Bot</h3>
+          <p style="color: #cbd5e1; font-weight: bold; font-size: 13px; margin: 4px 0 8px 0;">Discord &amp; Minecraft AI Companion</p>
           <div style="margin: 8px 0; display: flex; gap: 4px; flex-wrap: wrap;">
-            <img src="https://img.shields.io/badge/Theme-Hacker_Matrix-00ff88" alt="Theme">
-            <img src="https://img.shields.io/badge/CLI-Terminal-success" alt="Terminal">
-            <img src="https://img.shields.io/badge/Tech-JS_/_Canvas-blue" alt="Tech">
+            <img src="https://img.shields.io/badge/Stack-Node_/_Express-blue" alt="Stack">
+            <img src="https://img.shields.io/badge/AI-Pollinations-purple" alt="AI">
+            <img src="https://img.shields.io/badge/Memory-SQLite-00f0ff" alt="Memory">
           </div>
-          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">Interactive CLI shell parsing 10+ commands • Matrix-style canvas backgrounds • Custom CTF cyber challenge interface</p>
+          <p style="color: #94a3b8; font-size: 12px; line-height: 1.5; margin: 8px 0 15px 0;">OpenAI-compatible routing (OpenRouter, Groq) • Per-user memory storage • DiscordSRV Minecraft chat hooks</p>
         </div>
         <div style="margin-top: auto;">
-          <a href="https://github.com/hyperdargo/ankitgupta-portfolio-v5" target="_blank">
+          <a href="https://github.com/hyperdargo/DTEmpire-Ai-Chat-Bot" target="_blank">
             <img src="https://img.shields.io/badge/💻_Code-black?style=for-the-badge&logo=github" alt="GitHub">
           </a>
-          <a href="https://ankitgupta.com.np" target="_blank">
-            <img src="https://img.shields.io/badge/🌐_Demo-00ff88?style=for-the-badge" alt="Live Demo">
+          <a href="https://discord.com/oauth2/authorize?client_id=1454372361485684870" target="_blank">
+            <img src="https://img.shields.io/badge/🤖_Invite-A78BFA?style=for-the-badge&logo=discord" alt="Invite">
           </a>
         </div>
       </div>
