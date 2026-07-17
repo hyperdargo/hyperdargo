@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Degree-BSc%20CS%20%26%20Cybersecurity-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="Academic" />
   <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-bd00ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://ankitgupta.com.np"><img src="https://img.shields.io/badge/Portfolio-ankitgupta.com.np-00ff66?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/dargotamber/"><img src="https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:email@ankitgupta.com.np"><img src="https://img.shields.io/badge/Email-Contact-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/hyperdargo"><img src="https://img.shields.io/badge/GitHub-hyperdargo-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
@@ -305,7 +305,7 @@ Open To:
 
 ## 💬 Connect Section
 - **Gmail:** `email@ankitgupta.com.np`
-- **LinkedIn:** [Ankit Gupta](https://linkedin.com)
+- **LinkedIn:** [Ankit Gupta](https://www.linkedin.com/in/dargotamber/)
 - **GitHub:** [hyperdargo](https://github.com/hyperdargo)
 - **Portfolio:** [ankitgupta.com.np](https://ankitgupta.com.np)
 
