@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Degree-BSc%20Computer%20Science-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="Academic" />
+  <img src="https://img.shields.io/badge/Degree-BSc%20CS%20%26%20Cybersecurity-7c3aed?style=flat-square&logo=academia&logoColor=white" alt="Academic" />
   <img src="https://img.shields.io/badge/Location-Kathmandu%2C%20Nepal-bd00ff?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <a href="https://ankitgupta.com.np"><img src="https://img.shields.io/badge/Portfolio-ankitgupta.com.np-00ff66?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Connect-00f0ff?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -39,12 +39,18 @@ I am a **Senior Full-Stack Developer** and **Cybersecurity Researcher** focusing
 
 ---
 
-## 🛠️ Tech Stack Section
+## 🛠️ Tech Stack & Cybersecurity Arsenal
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,go,c,react,nextjs,tailwind,docker,postgres,nginx,cloudflare,git,figma" alt="Tech Stack Icons" />
+    <img src="https://skillicons.dev/icons?i=py,ts,nodejs,go,c,react,nextjs,tailwind,docker,postgres,nginx,cloudflare,git,figma,linux,bash" alt="Tech Stack Icons" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Ethical%20Hacking-00FF66?style=for-the-badge&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-00F0FF?style=for-the-badge&logo=shield&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Penetration%20Testing-BD00FF?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </p>
 
 ### 💻 System Platforms & DevOps
@@ -63,108 +69,112 @@ I am a **Senior Full-Stack Developer** and **Cybersecurity Researcher** focusing
 
 ---
 
-## 🔥 Featured Projects Section
+## 🔥 Featured Projects
 
-<details>
-  <summary><strong>🤖 DTEmpire v2 — Discord Automation Core</strong></summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://i.imgur.com/exDGDGc.png" alt="DTEmpire Banner" width="100%"/>
-  </p>
+<div align="center" style="margin-bottom: 25px;">
+  <img src="https://img.shields.io/badge/Discord_Bots-2-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Bots" />
+  <img src="https://img.shields.io/badge/Cybersecurity_Tools-1-red?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="Security Tools" />
+  <img src="https://img.shields.io/badge/Web_Development-2-green?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev" />
+</div>
 
-  **Comprehensive automation and utility engine managing 54 commands across 12 distinct categories.**
+<div class="project-grid" align="center">
 
-  | Metric | Value / Spec |
-  | :--- | :--- |
-  | **Stack** | Discord.js v14 • Riffy (Lavalink) • Axios • Express.js |
-  | **Scale** | Multi-guild deployment, TIMED auto-rooms, ticket management |
-  | **Performance** | Non-premium Spotify metadata resolution and YouTube playback streaming |
-  | **Security** | Dynamic token isolation, input validation, strict CORS/rate limiting |
-  | **Impact** | Complete server utility automation, active ticket queues, logs audits |
-  | **Repository** | [hyperdargo/DTEmpire-v2](https://github.com/hyperdargo/DTEmpire-v2) |
+  <!-- Project 1: DTEmpire v2 -->
+  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #5865F2; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin-top: 0; color: #FFFFFF;">🤖 DTEmpire v2</h3>
+    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">All-in-One Discord Bot &amp; Automation Engine</p>
+    <div style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/Version-2.6.9-blue" alt="Version">
+      <img src="https://img.shields.io/badge/Commands-54+-green" alt="Commands">
+      <img src="https://img.shields.io/badge/Categories-12-yellow" alt="Categories">
+      <img src="https://img.shields.io/badge/Node.js-18.x-brightgreen" alt="Node.js">
+    </div>
+    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">AI Chat/Image/Video • Advanced Moderation • Economy System • Music Player • Ticket System • Auto-Rooms • YouTube Alerts</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/hyperdargo/DTEmpire-v2" target="_blank">
+        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+      </a>
+      <a href="https://dsc.gg/dtempirev2" target="_blank">
+        <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
+      </a>
+    </div>
+  </div>
 
-  #### Overview & Implementations
-  DTEmpire V2 acts as a high-fidelity automation client. Features include real-time voice DJ layers, AI-assisted conversational logic powered by the 9router API, automated YouTube alerts, economy simulation nodes (bank, properties, taxes), and robust moderation configurations including bad-word filters and link logging.
-  
-  <p align="center">
-    <a href="https://dsc.gg/dtempirev2">
-      <img src="https://img.shields.io/badge/Invite-DTEmpire_Bot-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-    <a href="https://discord.gg/eVuKw3VrvX">
-      <img src="https://img.shields.io/badge/Support-Server-7c3aed?style=for-the-badge&logo=discord&logoColor=white" />
-    </a>
-  </p>
-</details>
+  <!-- Project 2: DTEmpire Music Bot -->
+  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #FF0000; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin-top: 0; color: #FFFFFF;">🎵 DTEmpire Music Bot</h3>
+    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">High-Quality Discord Music Player</p>
+    <div style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/Platform-YouTube-red" alt="YouTube">
+      <img src="https://img.shields.io/badge/Platform-Spotify-green" alt="Spotify">
+      <img src="https://img.shields.io/badge/Audio-Lossless-blue" alt="Audio">
+    </div>
+    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">YouTube &amp; Spotify Support • Queue Management • Volume Control • Shuffle/Loop Modes • 24/7 Voice Channel Uptime</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/hyperdargo/Discord-Music-Bot" target="_blank">
+        <img src="https://img.shields.io/badge/🎵_Source_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://dsc.gg/dtempire-music" target="_blank">
+        <img src="https://img.shields.io/badge/🤖_Invite_Bot-Add_to_Server-5865F2?style=for-the-badge&logo=discord" alt="Invite">
+      </a>
+    </div>
+  </div>
 
-<details>
-  <summary><strong>🎬 Alluva — Multi-source Private Media Player</strong></summary>
-  <br/>
+  <!-- Project 3: Asura Proctoring Anti-Cheat -->
+  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #BD00FF; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin-top: 0; color: #FFFFFF;">🛡️ Asura Proctoring Anti-Cheat</h3>
+    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">AI-Assisted Online Exam Integrity Platform</p>
+    <div style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/Stack-Flask_/_Socket.IO-purple" alt="Stack">
+      <img src="https://img.shields.io/badge/Security-OS_Audit-red" alt="Security">
+      <img src="https://img.shields.io/badge/Agent-Win32_/_psutil-blue" alt="Agent">
+    </div>
+    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">DevTools Blocking • Viewport Hooking • Real-time WebSocket violation streaming • Win32 background process tracking</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/hyperdargo/Asura-Anti-Cheat" target="_blank">
+        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+      </a>
+    </div>
+  </div>
 
-  <p align="center">
-    <img src="https://media.discordapp.net/attachments/1052887260485394453/1525103515343519774/android-chrome-192x192.png?ex=6a522ad5&is=6a50d955&hm=74f555c0511499ef559358939391ec1ac3e9f6e8ac1236307e21eb19a320ce19&=&format=webp&quality=lossless" alt="Alluva Logo" width="80" height="80">
-  </p>
-  
-  <p align="center">
-    <img src="https://media.discordapp.net/attachments/1052887260485394453/1525103306014199818/619988936-984ec244-e725-48bf-ac20-2687d335da5f.png?ex=6a522aa3&is=6a50d923&hm=532f388f836d5ebe699fabc53e10a8bba90fe16ad4d9f646a671dfa68c3efbdf&=&format=webp&quality=lossless&width=1421&height=856" alt="Alluva Screenshot" width="100%">
-  </p>
+  <!-- Project 4: Portfolio v5 -->
+  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #00FF88; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin-top: 0; color: #FFFFFF;">🌐 Portfolio v5</h3>
+    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">Hacker-Themed Interactive Cybersecurity Portfolio</p>
+    <div style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/Theme-Hacker_Matrix-00ff88" alt="Theme">
+      <img src="https://img.shields.io/badge/CLI_Terminal-Yes-success" alt="Terminal">
+      <img src="https://img.shields.io/badge/Tech-Vanilla_JS_/_Canvas-blue" alt="Tech">
+    </div>
+    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">Interactive CLI shell parsing 10+ commands • Matrix-style canvas backgrounds • Custom CTF cyber challenge interface</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/hyperdargo/ankitgupta-portfolio-v5" target="_blank">
+        <img src="https://img.shields.io/badge/💻_Code-GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+      <a href="https://ankitgupta.com.np" target="_blank">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Site-00ff88?style=for-the-badge" alt="Live Demo">
+      </a>
+    </div>
+  </div>
 
-  **All-in-one streaming server consolidation for movies, TV, and anime metadata.**
+  <!-- Project 5: Alluva Private Player -->
+  <div class="project-card" style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px; margin: 15px 0; border-left: 4px solid #00F0FF; text-align: left; max-width: 800px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+    <h3 style="margin-top: 0; color: #FFFFFF;">🎬 Alluva Private Media Player</h3>
+    <p style="color: #cbd5e1; font-weight: bold; margin-bottom: 5px;">Unified Multi-source torrent Streaming Client</p>
+    <div style="margin: 10px 0;">
+      <img src="https://img.shields.io/badge/Backend-Node.js_/_Express-blue" alt="Backend">
+      <img src="https://img.shields.io/badge/Scraping-Torznab_/_Prowlarr-orange" alt="Scraping">
+      <img src="https://img.shields.io/badge/Metadata-AniList_/_TMDB-purple" alt="Metadata">
+    </div>
+    <p style="color: #94a3b8; font-size: 14px; line-height: 1.6;">Prowlarr search indexer scraping • Glassmorphic navigation UI • VLC native stream linking • Automated catalog management</p>
+    <div style="margin-top: 15px;">
+      <a href="https://github.com/hyperdargo/Alluva" target="_blank">
+        <img src="https://img.shields.io/badge/📂_Repository-View_on_GitHub-black?style=for-the-badge&logo=github" alt="GitHub Repo">
+      </a>
+    </div>
+  </div>
 
-  | Metric | Value / Spec |
-  | :--- | :--- |
-  | **Stack** | Node.js 16+ • Express.js • AniList GraphQL • TMDB API • Torznab |
-  | **Scale** | Unified UI with iOS-style glassmorphic tabs and media sorting pills |
-  | **Performance** | Concurrent Torznab indexer scraping with browser torrent-play hooks |
-  | **Security** | Server-enforced adult filter controls, private host message validations |
-  | **Impact** | Self-hosted dashboard keeping personal viewing statistics locally |
-  | **Repository** | [hyperdargo/Alluva](https://github.com/hyperdargo/Alluva) |
-
-  #### Overview & Implementations
-  Alluva is a local media proctor indexer. It parses queries against Prowlarr/Torznab endpoints (YTS, Nyaa.si, TPB) while enriching visual templates using TMDB and AniList APIs. Features include rotating carousel hero banners, multilingual title filtering, user feedback modules, and VLC native host stream integrations.
-</details>
-
-<details>
-  <summary><strong>🛡️ Asura — Advanced Proctoring Anti-Cheat</strong></summary>
-  <br/>
-
-  **online examination integrity platform utilizing AI-powered violations tracking and real-time Socket.IO logs.**
-
-  | Metric | Value / Spec |
-  | :--- | :--- |
-  | **Stack** | Flask 2.x • Flask-SocketIO 5.x • SQLAlchemy • pywin32 • psutil |
-  | **Scale** | Multi-role user portal (Admins, Lecturers, Staff, Students) |
-  | **Performance** | Real-time WebSocket connection handling sub-second proctor logs |
-  | **Security** | Active DevTools block, screen capture overlay shield, shortcut interceptors |
-  | **Impact** | Automates timed student evaluations while monitoring system behavior |
-  | **Repository** | [hyperdargo/Asura-Anti-Cheat](https://github.com/hyperdargo/Asura-Anti-Cheat) |
-
-  #### Overview & Implementations
-  Asura addresses cheating indicators in high-stakes testing. The student portal blocks navigation paths (Alt+Tab, PrintScreen, visibility changes), checking active system processes using an optional Win32 background agent. Staff can review color-coded violation logs (CRITICAL, HIGH, MEDIUM risk levels) and execute instant WebSocket termination commands.
-</details>
-
-<details>
-  <summary><strong>🧠 DTEmpire AI Chat Bot — Discord &amp; Minecraft Companion</strong></summary>
-  <br/>
-  
-  <p align="center">
-    <img src="https://i.imgur.com/xQNNFoX.png" alt="DTEmpire AI Banner" width="100%"/>
-  </p>
-
-  **Fast AI-agent bridge with DiscordSRV Minecraft webhooks and persistent user conversation memory.**
-
-  | Metric | Value / Spec |
-  | :--- | :--- |
-  | **Stack** | Node.js 18+ • Discord.js v14 • Express • SQLite • Pollinations API |
-  | **Scale** | Simultaneous Slack-style chat channels and Minecraft server threads |
-  | **Performance** | Parallel OpenRouter/Pollinations API query retry buffers |
-  | **Security** | Thread isolation, command authorization gates, key encryption |
-  | **Impact** | Contextual in-game chatbot automation for Minecraft servers |
-  | **Repository** | [hyperdargo/DTEmpire-Ai-Chat-Bot](https://github.com/hyperdargo/DTEmpire-Ai-Chat-Bot) |
-
-  #### Overview & Implementations
-  This bot bridges Discord servers and Minecraft instances. It monitors in-game text using DiscordSRV channel patterns, responding to player-initiated prompts (`ai <msg>`, `bot <msg>`) without prefix pollution. It leverages memory arrays stored in local JSON/SQLite to provide continuous conversational history.
-</details>
+</div>
 
 ---
 
