@@ -182,16 +182,7 @@ I am a **Full-Stack Developer** and **Cybersecurity Researcher** focusing on bac
   </tr>
 </table>
 
----
 
-## 💼 Experience Section
-
-### **Lead Full-Stack Developer &amp; Auditor**
-**DTEmpire Network** — *2024 - Present*
-- Engineered high-traffic bot cores (DTEmpire V2) serving multi-server guilds with low-latency media layers.
-- Formulated anti-cheat detection templates tracking browser viewport modifications.
-- Integrated OpenAI-compatible multi-model routing APIs with parallel retry schedules.
-- *Technologies:* `Node.js` `TypeScript` `Flask` `Python` `WebSockets` `Docker` `Nginx`
 
 ---
 
