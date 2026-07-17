@@ -25,12 +25,6 @@
       <feDropShadow dx="1" dy="3" stdDeviation="4" flood-color="#0f172a" flood-opacity="0.06" />
     </filter>
 
-    <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="4" result="noise" />
-      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.02 0" />
-      <feBlend mode="overlay" in="SourceGraphic" in2="noise" />
-    </filter>
-
     <!-- Typing Subtitle Clip Paths -->
     <clipPath id="clip-role1">
       <rect x="530" y="170" width="0" height="30">
@@ -71,9 +65,6 @@
     <animate attributeName="cx" values="900;820;900" dur="16s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="450;510;450" dur="12s" repeatCount="indefinite"/>
   </circle>
-
-  <!-- Noise Texture -->
-  <rect width="1180" height="610" filter="url(#noise)" pointer-events="none" />
 
   <!-- Tiny Floating Particles -->
   <g opacity="0.2">
