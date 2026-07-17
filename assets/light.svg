@@ -54,7 +54,7 @@
     </defs>
 
   <!-- Background -->
-  <rect width="1180" height="610" fill="#FFFFFF" />
+  <!-- <rect width="1180" height="610" fill="#FFFFFF" /> -->
 
   <!-- Animated Background Glows -->
   <circle cx="200" cy="150" r="300" fill="url(#bg-glow-1)">
